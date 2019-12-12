@@ -33,9 +33,4 @@ class BankAccount
         @@accounts
     end
 
-    def balance
-        @balance
-    end
-
-    
 end
